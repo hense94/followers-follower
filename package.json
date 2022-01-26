@@ -19,10 +19,12 @@
   },
   "homepage": "https://github.com/Hense94/followers-follower#readme",
   "dependencies": {
+    "luxon": "^2.3.0",
     "node-fetch": "^2.6.7",
     "node-schedule": "^2.1.0"
   },
   "devDependencies": {
+    "@types/luxon": "^2.0.9",
     "@types/node": "^17.0.10",
     "@types/node-fetch": "^3.0.3",
     "ts-node-dev": "^1.1.8",
